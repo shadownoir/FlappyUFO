@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FlappyUFO/Scenes/Restart.unity
+  isLoaded: 1
+  isActive: 1

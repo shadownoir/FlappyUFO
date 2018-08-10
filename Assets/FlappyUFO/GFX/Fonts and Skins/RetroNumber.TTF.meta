@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0c08a41b38bf90243a3ffbf2492bcb5e
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 25
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Retro
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
